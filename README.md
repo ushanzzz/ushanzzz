@@ -33,3 +33,11 @@ I live at the intersection of **rigorous research** and **creative application**
 In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
 
 ---
+### 📖 Open Source Projects
+
+**[trinofy](https://github.com/ushanzzz/trinofy)**
+MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
+
+![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
+![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
+
