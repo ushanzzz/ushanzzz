@@ -35,7 +35,7 @@ In the world of high-dimensional matrices and loss functions, I believe the most
 ---
 ### 📖 Open Source Projects
 
-**[trinofy](https://github.com/ushanzzz/trinofy)**
+**[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
 MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
 
 ![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
