@@ -37,13 +37,13 @@ In the world of high-dimensional matrices and loss functions, I believe the most
 **[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
 MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
 
-![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
+[![PyPI](https://img.shields.io/pypi/v/mihuman.svg)](https://pypi.org/project/mihuman/)
 ![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
 
 **[mihuman](https://github.com/ushanzzz/mi_human)** (PyPI) 
 Local AI-text humanizer — rewrite AI content into natural prose on your own machine.
 
-![PyPI](https://img.shields.io/pypi/v/mihuman?color=319450&label=PyPI)
+[![PyPI](https://img.shields.io/pypi/v/trinofy.svg)](https://pypi.org/project/trinofy/)
 ![License](https://img.shields.io/github/license/ushanzzz/mi_human?color=319450)
 
 
