@@ -24,7 +24,6 @@ I live at the intersection of **rigorous research** and **creative application**
  </div>
 
 
----
 
 ### 🧩 The Philosophy
 
@@ -32,7 +31,19 @@ I live at the intersection of **rigorous research** and **creative application**
 
 In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
 
+
 ---
+### 📚 Publications & Preprints
+
+**Mi_Human : A Configurable Post-Processing Pipeline for Humanising AI-Generated Text Using Lightweight Models**
+<br />
+*Balasooriya, U. (2026)*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg)](https://doi.org/10.5281/zenodo.21443970)
+
+
+---
+
 ### 📖 Open Source Projects
 
 **[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
@@ -40,4 +51,3 @@ MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sql
 
 ![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
 ![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
-
