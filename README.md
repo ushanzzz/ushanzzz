@@ -46,6 +46,7 @@ Local AI-text humanizer — rewrite AI content into natural prose on your own ma
 [![PyPI](https://img.shields.io/pypi/v/mihuman.svg)](https://pypi.org/project/mihuman/)
 ![License](https://img.shields.io/github/license/ushanzzz/mi_human?color=319450)
 
+---
 
 ### 📚 Publications & Preprints
 
