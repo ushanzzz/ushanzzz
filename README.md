@@ -50,11 +50,11 @@ Local AI-text humanizer — rewrite AI content into natural prose on your own ma
 
 ### 📚 Publications & Preprints
 
+<a href="https://doi.org/10.5281/zenodo.21443970"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg" alt="DOI"></a>
 
 **Mi_Human : A Configurable Post-Processing Pipeline for Humanising AI-Generated Text Using Lightweight Models**
 <br />
 *Balasooriya, U. (2026)*
 
-<a href="https://doi.org/10.5281/zenodo.21443970"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg" alt="DOI"></a>
 
 ---
