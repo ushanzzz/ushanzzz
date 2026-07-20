@@ -24,15 +24,21 @@ I live at the intersection of **rigorous research** and **creative application**
  </div>
 
 
+### 📖 Open Source Projects
 
-### 🧩 The Philosophy
+**[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
+MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
 
-> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
+![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
+![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
 
-In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
+**[mihuman](https://github.com/ushanzzz/mi_human)** (PyPI) 
+Local AI-text humanizer — rewrite AI content into natural prose on your own machine.
+
+![PyPI](https://img.shields.io/pypi/v/mihuman?color=319450&label=PyPI)
+![License](https://img.shields.io/github/license/ushanzzz/mi_human?color=319450)
 
 
----
 ### 📚 Publications & Preprints
 
 **Mi_Human : A Configurable Post-Processing Pipeline for Humanising AI-Generated Text Using Lightweight Models**
@@ -44,10 +50,12 @@ In the world of high-dimensional matrices and loss functions, I believe the most
 
 ---
 
-### 📖 Open Source Projects
 
-**[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
-MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
+### 🧩 The Philosophy
 
-![PyPI](https://img.shields.io/pypi/v/trinofy?color=319450&label=PyPI)
-![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
+> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
+
+In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
+
+
+---
