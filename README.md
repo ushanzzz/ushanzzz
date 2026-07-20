@@ -18,6 +18,14 @@ I live at the intersection of **rigorous research** and **creative application**
 
 ---
 
+### 🧩 The Philosophy
+
+> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
+
+In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
+
+
+---
 
 <div align="left">
   <img src = "https://github.com/ushanzzz/me-3d/blob/main/me.png" align = "left">
@@ -48,14 +56,4 @@ Local AI-text humanizer — rewrite AI content into natural prose on your own ma
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg)](https://doi.org/10.5281/zenodo.21443970)
 
 
----
 
-
-### 🧩 The Philosophy
-
-> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
-
-In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
-
-
----
