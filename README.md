@@ -24,23 +24,27 @@ I live at the intersection of **rigorous research** and **creative application**
 
 In the world of high-dimensional matrices and loss functions, I believe the most elegant solution is often the simplest. I approach every problem with a researcher's curiosity and a designer's eye, ensuring that the systems I build are not only powerful but also intuitive.
 
-
 ---
 
 <div align="left">
-  <img src = "https://github.com/ushanzzz/me-3d/blob/main/me.png" align = "left">
- </div>
-
+  <img src="https://github.com/ushanzzz/me-3d/blob/main/me.png" align="left">
+</div>
 
 ### 📖 Open Source Projects
 
-**[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI) 
+**[oh-my-agents](https://snapcraft.io/oh-my-agents)** (Snap Store)  
+Drag, drop, and build visual Ollama AI agent workflows, then export them as runnable Python projects.
+
+[![Snap Store](https://img.shields.io/badge/Snap_Store-oh--my--agents-8257E5?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io/oh-my-agents)
+
+
+**[trinofy](https://github.com/ushanzzz/trinofy)** (PyPI)  
 MySQL → Trino SQL compiler for LLM-generated analytical queries. Built on `sqlglot`.
 
 [![PyPI](https://img.shields.io/pypi/v/trinofy.svg)](https://pypi.org/project/trinofy/)
 ![License](https://img.shields.io/github/license/ushanzzz/trinofy?color=319450)
 
-**[mihuman](https://github.com/ushanzzz/mi_human)** (PyPI) 
+**[mihuman](https://github.com/ushanzzz/mi_human)** (PyPI)  
 Local AI-text humanizer — rewrite AI content into natural prose on your own machine.
 
 [![PyPI](https://img.shields.io/pypi/v/mihuman.svg)](https://pypi.org/project/mihuman/)
@@ -50,11 +54,9 @@ Local AI-text humanizer — rewrite AI content into natural prose on your own ma
 
 ### 📚 Publications & Preprints
 
-<a href="https://doi.org/10.5281/zenodo.21443970"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg" alt="DOI"></a>
-
-**Mi_Human : A Configurable Post-Processing Pipeline for Humanising AI-Generated Text Using Lightweight Models**
+<a href=""><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21443970.svg" alt="DOI"></a> <br>
+**Mi_Human : A Configurable Post-Processing Pipeline for Humanising AI-Generated Text Using Lightweight Models**  
 <br />
 *Balasooriya, U. (2026)*
-
 
 ---
